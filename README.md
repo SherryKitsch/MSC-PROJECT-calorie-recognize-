@@ -13,7 +13,7 @@ python app.py
 1查看
 git status
 2添加到暂存区
-git add README.md
+git add README.md / git add .
 3提交
 git commit -m "Update README file"
 4推送到分支 
